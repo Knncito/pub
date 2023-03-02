@@ -1,0 +1,30 @@
+﻿* {
+    margin: 0;
+}
+.body {
+    background: #c0a4c9;
+}
+.contenedor {
+    background: #c0a4c9;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p {
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button {
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn {
+    transform: translate(-100%,0);
+}
+
+#noBtn {
+    position: absolute;
+}
